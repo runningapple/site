@@ -2,6 +2,8 @@
 title: 关于我
 date: 2017-08-06 22:57:58
 comments: false
+Slug: about-me
+Author: 苍南竹竿君
 ---
 嘿，你好  
 我是 Lin ，93 年生人  
