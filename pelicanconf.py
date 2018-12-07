@@ -38,3 +38,5 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 THEME = 'attila'
+
+HEADER_COVER = 'https://raw.githubusercontent.com/runningapple/site/master/attila/static/images/post-bg.jpg'
