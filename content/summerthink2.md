@@ -1,9 +1,12 @@
 ---
 title: 仲夏夜杂想2
 date: 2017-06-21 22:57:58
+Modified:  2017-06-21 22:57:58
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: summerthink2
+Author: 苍南竹竿君
 ---
 ![](http://wx3.sinaimg.cn/mw690/ad108d28gy1fgqfht0wkoj20tr0trqmh.jpg)  
 早上出门的时候，在电梯口里遇到一个小男孩。在我正要离开的时候，小男孩对我说了句“OK”，并比着ok👌的手势，脸上洋溢着阳光般的温暖笑容。虽然今天外面阴雨绵绵，因为这个小男孩的出现，霎时感觉太阳出来了:)

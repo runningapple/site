@@ -1,9 +1,12 @@
 ---
 title: 手机+PS实现“分身术”
 date: 2017-07-26 22:57:58
+Modified:  2017-07-26 22:57:58
 comments: true
-categories: Photography
-tags: [摄影,教程,后期,分身术]
+category:  Photography
+tags: 摄影,教程,后期,分身术
+Slug: ps-replication
+Author: 苍南竹竿君
 ---
 想必很多人都应该看到过那种一人分饰多角的照片。如下图是我拍摄制作的一张照片。  
 ![](http://wx3.sinaimg.cn/mw690/ad108d28gy1fgwgeu7v0jj21kw11x4qp.jpg)  

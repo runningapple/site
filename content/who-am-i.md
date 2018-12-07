@@ -1,9 +1,12 @@
 ---
 title: 我和这个世界不熟
 date: 2017-06-29 22:57:58
+Modified:  2017-06-29 22:57:58
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: who-am-i
+Author: 苍南竹竿君
 ---
 今天人太疲惫了，没有精力再去写文章了，附上一首我很喜欢的诗歌吧。作者是谁已不重要了，能触及心灵的，就算是好诗。  
 

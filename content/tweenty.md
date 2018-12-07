@@ -1,9 +1,12 @@
 ---
 title: 第二十篇
 date: 2017-07-11 22:57:58
+Modified:  2017-07-11 22:57:58
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: tweenty
+Author: 苍南竹竿君
 ---
 ![](http://wx3.sinaimg.cn/mw690/ad108d28gy1fhdpoxvfzyj20rs0ezn99.jpg)  
 哟，已经是第二十篇了。如果是21天坚持做某一件事情，就能养成一种习惯的话，那写文章的习惯已经养成了。现在基本上已经是一种自然而然地事情了。和刚刚开始那几天比起来，现在更加随意点，自由点，在早上或者晚上坐车的时候就可以想想写写。不像刚刚开始那几天要写到晚上12点多。  

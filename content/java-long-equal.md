@@ -1,9 +1,12 @@
 ---
 title: Java 长整型相等判断
 date: 2018-07-09 21:35:08
+Modified:  2018-07-09 21:35:08
 comments: true
-categories: R&D
-tags: [研发,Java,技术,GAN计划]
+category:  R&D
+tags: 研发,Java,技术,GAN计划
+Slug: java-long-equal
+Author: 苍南竹竿君
 ---
 上周在做一个 ID 相等判断的时候，因为是 ID 是 Long 类型，所以当时出现了一个问题“明明是一样的 ID，却怎么也不相等”。<!--more-->    
 后来自己测试了下：  

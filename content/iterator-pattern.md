@@ -1,9 +1,12 @@
 ---
 title: 从唐伯虎点秋香到迭代器模式
 date: 2018-02-07 00:01:23
+Modified:  2018-02-07 00:01:23
 comments: true
-categories: R&D
-tags: [研发,设计模式,技术]
+category:  R&D
+tags: 研发,设计模式,技术
+Slug: iterator-pattern
+Author: 苍南竹竿君
 ---
 ![](http://wx4.sinaimg.cn/mw690/ad108d28gy1fo763toi44j20og0dw75h.jpg)  
 在电影唐伯虎点秋香中，华夫人为了为难唐伯虎，让秋香和华府都所有丫鬟都盖上红头巾，排排站，让唐伯虎在几米开外指认出秋香，唐伯虎每次指认一个人，华府都“保安头头”就会去掀起那位姑娘都头巾，确认是否为秋香。当然在电影中唐伯虎只有 3 次指认机会。  

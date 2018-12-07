@@ -1,9 +1,12 @@
 ---
 title: 站立
 date: 2017-09-17 21:53:04
+Modified:  2017-09-17 21:53:04
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: stand-up
+Author: 苍南竹竿君
 ---
 ![](http://wx1.sinaimg.cn/mw690/ad108d28gy1fjmuhxf0z3j20ij0rsk5m.jpg)  
 

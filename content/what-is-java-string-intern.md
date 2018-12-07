@@ -1,9 +1,12 @@
 ---
 title: 初探 String.intern
 date: 2018-07-01 14:03:29
+Modified:  2018-07-01 14:03:29
 comments: true
-categories: R&D
-tags: [研发,Java,技术,GAN计划]
+category:  R&D
+tags: 研发,Java,技术,GAN计划
+Slug: what-is-java-string-intern
+Author: 苍南竹竿君
 ---
 ### 瞎扯
 前天晚上看了《深入理解JVM》的第一章内容，发现有太多东西都不理解，比如显卡和 CPU 的计算能力区别，再比如为什么 JVM在 32 位和 64 位架构下性能会不一样等。这些点后续还是要去查资料理清楚，今天抽点时间让自己熟悉一下之前从未用过的一个 String 方法 intern(JDK 1.8)。<!--more-->  

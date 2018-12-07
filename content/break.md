@@ -1,9 +1,12 @@
 ---
 title: 断
 date: 2017-12-31 21:52:15
+Modified:  2017-12-31 21:52:15
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: break
+Author: 苍南竹竿君
 ---
 遇见一些人，经历了一些事，丢了一些东西
 ![](http://wx1.sinaimg.cn/mw690/ad108d28gy1fmz5jorsp0j20rs0fwths.jpg)<!--more-->  

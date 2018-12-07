@@ -1,8 +1,11 @@
 ---
 title: 夏天的浆果
 date: 2018-07-21 19:02:09
-categories: Logs
-tags: [日志,记录,生活]
+Modified:  2018-07-21 19:02:09
+category:  Logs
+tags: 日志,记录,生活
+Slug: berry
+Author: 苍南竹竿君
 ---
 ![](http://wx1.sinaimg.cn/mw690/ad108d28gy1fthmc4b32pj23402c0x6p.jpg)  
 这个夏天  

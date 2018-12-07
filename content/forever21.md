@@ -1,9 +1,12 @@
 ---
 title: 第二十篇
 date: 2017-07-10 22:57:58
+Modified:  2017-07-10 22:57:58
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: forever21
+Author: 苍南竹竿君
 ---
 ![](http://wx3.sinaimg.cn/mw690/ad108d28gy1fhdpot3u7gj20rs0ij4h7.jpg)  
 想到这是第二十一篇，脑海里不自觉的就响起曾轶可的 Forever 21 这首歌。听这首歌的时候应该是高中时期，印象里校园广播有放过几次。所以还挺怀念的。晚上回去再听听，重温一下。  

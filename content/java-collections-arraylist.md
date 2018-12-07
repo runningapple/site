@@ -1,9 +1,12 @@
 ---
 title: JAVA 拾遗之 ArrayList
 date: 2017-09-16 21:34:12
+Modified:  2017-09-16 21:34:12
 comments: true
-categories: R&D
-tags: [技术,研发,Java]
+category:  R&D
+tags: 技术,研发,Java
+Slug: java-collections-arraylist
+Author: 苍南竹竿君
 ---
 ### 概要
 上篇文章已经总结了最原始的集合接口 Collection 和 工具类 Iterator 迭代器。这篇文章将更全面的梳理一下 Java 集合体系。  

@@ -1,9 +1,12 @@
 ---
 title: Cookie，WebStorage对比总结
 date: 2017-03-11 08:36:25
+Modified:  2017-03-11 08:36:25
 comments: true
-categories: R&D
-tags: [R&D,技术,研发]
+category:  R&D
+tags: R&D,技术,研发
+Slug: cookie-and-webstorage
+Author: 苍南竹竿君
 ---
 #### Cookie
 1. **简介**  

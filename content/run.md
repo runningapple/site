@@ -1,9 +1,12 @@
 ---
 title: 追
 date: 2017-07-06 22:57:58
+Modified:  2017-07-06 22:57:58
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: run
+Author: 苍南竹竿君
 ---
 嗯，开了半天的会，修了几个 bug ，一天就这么过去了。  
 

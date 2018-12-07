@@ -1,9 +1,12 @@
 ---
 title: 请一天假回家
 date: 2017-07-20 22:57:58
+Modified:  2017-07-20 22:57:58
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: on-my-way-home
+Author: 苍南竹竿君
 ---
 ![](http://wx2.sinaimg.cn/mw690/ad108d28gy1fhu5l77qn6j20rs0exjzn.jpg)  
 現在是 21:37 。坐在南京南開往蒼南的高鐵上。晚上到家估計要 23:30 了。  

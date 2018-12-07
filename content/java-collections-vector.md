@@ -1,9 +1,12 @@
 ---
 title: JAVA 拾遗之 Vector
 date: 2017-09-24 17:08:16
+Modified:  2017-09-24 17:08:16
 comments: true
-categories: R&D
-tags: [技术,研发,Java]
+category:  R&D
+tags: 技术,研发,Java
+Slug: java-collections-vector
+Author: 苍南竹竿君
 ---
 
 ### 概要

@@ -1,9 +1,12 @@
 ---
 title: HTTP协议总结
 date: 2017-3-11 08:28:01
+Modified:  2017-3-11 08:28:01
 comments: true
-categories: R&D
-tags: [R&D,技术,研发]
+category:  R&D
+tags: R&D,技术,研发
+Slug: about-http
+Author: 苍南竹竿君
 ---
 #### HTTP 协议简介
 HTTP 协议是从 1990 年开始背广泛应用于**客户端-服务端**模式网络的协议。在任何时候，只要你上网打开网页，你的浏览器就会向服务器发送 HTTP 请求信息。服务器便会处理请求，然后返回响应信息，响应信息里包含有客户端所请求的信息内容。<!--more-->  

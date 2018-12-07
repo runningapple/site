@@ -1,9 +1,12 @@
 ---
 title: 一次发布事故总结
 date: 2017-09-28 23:33:41
+Modified:  2017-09-28 23:33:41
 comments: true
-categories: R&D
-tags: [日志,记录,研发,技术]
+category:  R&D
+tags: 日志,记录,研发,技术
+Slug: an-accident-log
+Author: 苍南竹竿君
 ---
 系统发布是最没技术含量，但却又是最关键且危险的一步。  
 

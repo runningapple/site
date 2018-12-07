@@ -1,9 +1,12 @@
 ---
 title: 如何让你的代码更具有可读性
 date: 2018-07-04 19:32:19
+Modified:  2018-07-04 19:32:19
 comments: true
-categories: R&D
-tags: [研发,技术,GAN计划]
+category:  R&D
+tags: 研发,技术,GAN计划
+Slug: how-to-make-your-code-readable
+Author: 苍南竹竿君
 ---
 ![](http://wx2.sinaimg.cn/mw690/ad108d28gy1fsy89smpy4j21pc0yiwl2.jpg)  
 我们都曾见过（或者写过）一些“坏”代码。我们也都希望能够改善写代码的技能，而不仅仅是学习新的技能。<!--more-->  

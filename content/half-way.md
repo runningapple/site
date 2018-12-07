@@ -1,9 +1,12 @@
 ---
 title: 在半途
 date: 2017-07-05 22:57:58
+Modified:  2017-07-05 22:57:58
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: half-way
+Author: 苍南竹竿君
 ---
 嘿，早上好。  
 

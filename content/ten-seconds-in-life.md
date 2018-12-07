@@ -1,9 +1,12 @@
 ---
 title: 10秒即一瞬
 date: 2018-02-04 21:37:07
+Modified:  2018-02-04 21:37:07
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: ten-seconds-in-life
+Author: 苍南竹竿君
 ---
 原本今天想去西湖边逛逛，拍拍视频，弄些素材放到一直想写的一篇文章上。但是早上只穿了件皮衣就出门了，后知后觉中午才发现如果去西湖边感冒的可能性会非常高，也就作罢，到苹果店附近随心的逛了会儿。  
 <video src='https://video.cdnvue.com/uploads/1086584561540053112/video/asqzqdm' type='video/mp4' controls='controls'  width='100%' height='100%'>

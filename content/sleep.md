@@ -1,9 +1,12 @@
 ---
 title: 睡觉好不好
 date: 2017-07-14 22:57:58
+Modified:  2017-07-14 22:57:58
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: sleep
+Author: 苍南竹竿君
 ---
 ![](http://wx2.sinaimg.cn/mw690/ad108d28gy1fhdpotqzb2j20rs0d9jy5.jpg)  
 早上一直在犹豫要不要回家。下午想想还是回趟家，看了下车票，已经没有了，但是还是抱着试试看的心态赶到车站看看车站买能不能买到。结果还是没有票，只能无奈的回来。  

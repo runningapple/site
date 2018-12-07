@@ -1,9 +1,12 @@
 ---
 title: 月末随笔
 date: 2017-11-22 23:07:05
+Modified:  2017-11-22 23:07:05
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: november-optionally
+Author: 苍南竹竿君
 ---
 又是好久没有写点东西了，最近忙的事情越来越少，但是忙的的时间却越来越长。最近工作上的事情有一个很深的感触，就是如果目标过于模糊的时候，再对目标进行细化是非常耗时耗力的。  
 

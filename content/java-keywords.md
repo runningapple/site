@@ -1,9 +1,12 @@
 ---
 title: JAVA 拾遗之关键字篇
 date: 2017-09-02 2017-09-02 18:27:41
+Modified:  2017-09-02 2017-09-02 18:27:41
 comments: true
-categories: R&D
-tags: [技术,研发,Java]
+category:  R&D
+tags: 技术,研发,Java
+Slug: java-keywords
+Author: 苍南竹竿君
 ---
 ## strictfp
 strictfp，即strict float point（精确浮点）  

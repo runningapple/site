@@ -1,9 +1,12 @@
 ---
 title: 《人生》
 date: 2017-08-27 22:57:52
+Modified:  2017-08-27 22:57:52
 comments: true
-categories: Reading
-tags: [阅读,记录]
+category:  Reading
+tags: 阅读,记录
+Slug: life-book-reviews
+Author: 苍南竹竿君
 ---
 ![](http://wx2.sinaimg.cn/small/ad108d28gy1fiyezkn4w6j208c0bowep.jpg)  
 ~~人生的道路虽然漫长，但紧要的常常只有几步。~~  

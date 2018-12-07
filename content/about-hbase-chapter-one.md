@@ -1,9 +1,12 @@
 ---
 title: 关于HBase的一些小结
 date: 2018-10-20 15:49:00
+Modified:  2018-10-20 15:49:00
 comments: true
-categories: R&D
-tags: [R&D,HBase,技术,研发]
+category:  R&D
+tags: R&D,HBase,技术,研发
+Slug: about-hbase-chapter-one
+Author: 苍南竹竿君
 ---
 吼，最近的工作内容一直在围绕着系统优化进行着，特别是HBase相关的。  
 因为之前也没很深入的理解这块内容，只是在项目里用过一次。  

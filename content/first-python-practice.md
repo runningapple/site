@@ -1,9 +1,12 @@
 ---
 title: 一次 Python 脚本实践
 date: 2017-08-06 23:14:06
+Modified:  2017-08-06 23:14:06
 comments: true
-categories: R&D
-tags: [Python,技术,脚本,Linux]
+category:  R&D
+tags: Python,技术,脚本,Linux
+Slug: first-python-practice
+Author: 苍南竹竿君
 ---
 
 最近在学习 python 脚本，原先打算这个周末写篇文章汇总一下学习记录的。正好上周正好想到有个项目平时部署时候要分不同环境配置不同参数，很是麻烦且很容易出错。所以上周花了半天的时间撸了一个验证和替换参数的脚本，下面就来记录一下。<!--more-->  

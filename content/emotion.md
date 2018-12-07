@@ -1,9 +1,12 @@
 ---
 title: 情绪剖析
 date: 2017-06-26 22:57:58
+Modified:  2017-06-26 22:57:58
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: emotion
+Author: 苍南竹竿君
 ---
 ![](http://wx3.sinaimg.cn/mw690/ad108d28gy1fgyu1tjchdj20wg0hgn41.jpg)  
 此刻，情绪处于十分失控的状态之中，愤怒，悲伤等等都有。  

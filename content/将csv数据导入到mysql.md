@@ -1,9 +1,12 @@
 ---
 title: 将csv数据导入到mysql
 date: 2018-03-07 18:49:39
+Modified:  2018-03-07 18:49:39
 comments: false
-categories: R&D
-tags: [R&D,技术,研发,奇技淫巧]
+category:  R&D
+tags: R&D,技术,研发,奇技淫巧
+Slug: 将csv数据导入到mysql
+Author: 苍南竹竿君
 ---
 之前用想用 Navicat 将 csv 的数据导入到 MYSQL 时候，发现有行数限制，上个星期改用了 DataGrip 工具来操作数据库，发现可以没有限制的导入数据了（很是 happy）。  
 但是对于 datetime 类型的数据导入还是会有问题的，需要做点处理。下面就来演示一遍。<!--more-->  

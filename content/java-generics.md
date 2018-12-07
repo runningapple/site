@@ -1,9 +1,12 @@
 ---
 title: JAVA 拾遗之泛型程序设计
 date: 2017-09-10 11:39:56
+Modified:  2017-09-10 11:39:56
 comments: true
-categories: R&D
-tags: [技术,研发,Java]
+category:  R&D
+tags: 技术,研发,Java
+Slug: java-generics
+Author: 苍南竹竿君
 ---
 更多补充内容请看：[协变与逆变](http://runningapple.com/%E5%8D%8F%E5%8F%98%E4%B8%8E%E9%80%86%E5%8F%98/) 文章。  
 

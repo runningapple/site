@@ -1,9 +1,12 @@
 ---
 title: 从大疆稳定器没货到观察者模式
 date: 2018-02-07 19:16:46
+Modified:  2018-02-07 19:16:46
 comments: true
-categories: R&D
-tags: [研发,设计模式,技术]
+category:  R&D
+tags: 研发,设计模式,技术
+Slug: observer-pattern
+Author: 苍南竹竿君
 ---
 今年 CES 会展上大疆公司出了一个手机稳定器 osmo mobile2 ，性价比非常高。昨天看了下相关的评测视频，心动了，就准备去买一个过年时候拍拍视频用，可气的是各种渠道都没有货了。官网只显示到货后通知。。。  
 ![](http://wx3.sinaimg.cn/mw690/ad108d28gy1fo82w06trlj20rr0af3z9.jpg)  

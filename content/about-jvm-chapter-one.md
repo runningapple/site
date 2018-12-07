@@ -1,9 +1,12 @@
 ---
 title: JVM读书笔记
 date: 2018-10-20 13:31:33
+Modified:  2018-10-20 13:31:33
 comments: true
-categories: R&D
-tags: [R&D,Java,技术,研发]
+category:  R&D
+tags: R&D,Java,技术,研发
+Slug: about-jvm-chapter-one
+Author: 苍南竹竿君
 ---
 呐，最近开始对JVM产生的不轨的心，所以想看看它的外在美和内在美啵。  
 

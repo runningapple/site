@@ -1,9 +1,12 @@
 ---
 title: JAVA 拾遗之 switch 与 String
 date: 2017-09-06 21:43:13
+Modified:  2017-09-06 21:43:13
 comments: true
-categories: R&D
-tags: [技术,研发,Java]
+category:  R&D
+tags: 技术,研发,Java
+Slug: java-switch
+Author: 苍南竹竿君
 ---
 在 Java1.7 版本之前，switch case 能够用来比较 byte, short, int, char, enum（枚举类型是通过该常量在所有枚举常量中的序号进行比较的）。在 Java1.7 版本之后 switch case 增加了对 String 的比较能力。像 byte, short, char 等都是通过数值及转换成对应的数值进行比较的，那么 String 又是如何比较的呢？为了一探究竟，今个儿就看看编译后的代码是怎么样的。  
 

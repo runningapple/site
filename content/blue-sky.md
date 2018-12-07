@@ -1,9 +1,12 @@
 ---
 title: 天天天蓝
 date: 2017-07-12 22:57:58
+Modified:  2017-07-12 22:57:58
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: blue-sky
+Author: 苍南竹竿君
 ---
 ![](http://wx3.sinaimg.cn/mw690/ad108d28gy1fhdpovts1kj20rs0deak1.jpg)  
 最近开始把每天的任务分解后，效率也随之越来越高了。看来这套方法论其实还是适合自身的。可以继续实践并优化。  

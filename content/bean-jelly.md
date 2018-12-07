@@ -1,9 +1,12 @@
 ---
 title: 凉粉最美味
 date: 2017-07-16 23:57:58
+Modified:  2017-07-16 23:57:58
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: bean-jelly
+Author: 苍南竹竿君
 ---
 ![](http://wx3.sinaimg.cn/mw690/ad108d28gy1fhm4bueg30j20rs0jltgp.jpg)  
 嘿，你好。  

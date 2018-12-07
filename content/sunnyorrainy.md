@@ -1,9 +1,12 @@
 ---
 title: 晴雨各半
 date: 2017-06-24 22:57:58
+Modified:  2017-06-24 22:57:58
 comments: true
-categories: Logs
-tags: [日志,记录,生活,摄影,自拍]
+category:  Logs
+tags: 日志,记录,生活,摄影,自拍
+Slug: sunnyorrainy
+Author: 苍南竹竿君
 ---
 ![](http://wx1.sinaimg.cn/mw690/ad108d28gy1fgwges1gvbj21kw16o4qp.jpg)  
 六点，起床，下楼，发现门前停着两辆共享单车，一辆是小黄车，另一辆也是小黄车。最终我还是选择了走路。（不行，这种鲁迅式的开头我现在还把控不住，少点套路多点真诚，好吗）  

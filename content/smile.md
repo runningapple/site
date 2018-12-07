@@ -1,9 +1,12 @@
 ---
 title: 😊
 date: 2017-07-13 22:57:58
+Modified:  2017-07-13 22:57:58
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: smile
+Author: 苍南竹竿君
 ---
 ![](http://wx1.sinaimg.cn/mw690/ad108d28gy1fhdpoubbvkj20rs0fz49j.jpg)  
 早上出门看到“有趣”的一幕。一位大妈在路边停下车，火急火燎的下车往草丛里钻，钻进去后又跑出来到处找什么东西，后来她好像找到了她想要的东西“地瓜叶”，接着大妈又钻进了草丛。其实，在父辈那个时代树枝，竹条，树叶都是可以用的，当然属竹条最卫生了。<!--more-->  

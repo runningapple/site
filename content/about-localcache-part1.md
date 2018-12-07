@@ -1,9 +1,12 @@
 ---
 title: 如何设计一个local cache
 date: 2018-08-12 16:49:57
+Modified:  2018-08-12 16:49:57
 comments: true
-categories: R&D
-tags: [R&D,Java,技术,研发]
+category:  R&D
+tags: R&D,Java,技术,研发
+Slug: about-localcache-part1
+Author: 苍南竹竿君
 ---
 ### 开篇
 这一个月上手了几个项目，这些项目有部分框架及工具使用是一样的。今天要说的就是项目中都有用到的技术 local cache（本地缓存）。  

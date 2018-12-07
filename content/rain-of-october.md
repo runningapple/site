@@ -1,9 +1,12 @@
 ---
 title: 十月小雨
 date: 2017-10-16 00:07:30
+Modified:  2017-10-16 00:07:30
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: rain-of-october
+Author: 苍南竹竿君
 ---
 ![](http://wx4.sinaimg.cn/mw690/ad108d28gy1fkfcvsm9pfj218w0u078i.jpg)  
 

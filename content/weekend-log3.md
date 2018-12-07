@@ -1,9 +1,12 @@
 ---
 title: 周末记（3）
 date: 2017-07-09 22:57:58
+Modified:  2017-07-09 22:57:58
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: weekend-log3
+Author: 苍南竹竿君
 ---
 ![](http://wx3.sinaimg.cn/mw690/ad108d28gy1fhdpoz6su3j20o50rs1i5.jpg)  
 把昨天拍的一些照片稍微调了下色，一天就过去了。  

@@ -1,9 +1,12 @@
 ---
 title: 再探 Hash 算法
 date: 2018-06-08 13:54:00
+Modified:  2018-06-08 13:54:00
 comments: true
-categories: R&D
-tags: [研发,Java,技术,算法,GAN计划]
+category:  R&D
+tags: 研发,Java,技术,算法,GAN计划
+Slug: 再探Hash算法
+Author: 苍南竹竿君
 ---
 ### 开篇
 先前看到 HashMap 到一些东西，其中 JDK7 和 JDK8 的 hash 方式不同让我很是好奇，虽然已经知道这两个版本间实现的区别是 JDK8 中将链地址法做了优化，将链表改成类红黑树，将查询的复杂度从 O(n) 优化到类 O(logn)。  

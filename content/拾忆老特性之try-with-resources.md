@@ -1,9 +1,12 @@
 ---
 title: 拾忆老特性之try-with-resources
 date: 2018-06-13 21:25:14
+Modified:  2018-06-13 21:25:14
 comments: true
-categories: R&D
-tags: [研发,Java,技术,GAN计划]
+category:  R&D
+tags: 研发,Java,技术,GAN计划
+Slug: 拾忆老特性之try-with-resources
+Author: 苍南竹竿君
 ---
 现在 Java 10 都出来了，而还有好多公司都在用着 Java 7 或者 Java 6。说实话就算是 Java 7 ，想必也有很多有用的新特性都没有被用到实际开发中，大部分都是延续着 Java 6 的写法。  
 比如今天要说（翻译）的 try-with-resources 语句。之前一直都是用 try-catch-finally，前段时间看了一篇讲异常的文章，正好提到了 try-with-resources 就记在了心上，今天来翻译一下 oracle 官网对 try-with-resources 的介绍。  

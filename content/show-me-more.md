@@ -1,9 +1,12 @@
 ---
 title: 一尘不染
 date: 2018-01-27 20:25:56
+Modified:  2018-01-27 20:25:56
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: show-me-more
+Author: 苍南竹竿君
 ---
 杭城下雪了。  
 ![](http://wx3.sinaimg.cn/mw690/ad108d28ly1fnvfw2jcjhj229b29bb2a.jpg)<!--more-->  

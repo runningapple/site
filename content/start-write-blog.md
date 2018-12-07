@@ -1,9 +1,12 @@
 ---
 title: 开篇
 date: 2017-06-19 22:57:58
+Modified:  2017-06-19 22:57:58
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: start-write-blog
+Author: 苍南竹竿君
 ---
 ![](http://wx3.sinaimg.cn/mw690/ad108d28gy1fgqfhp2l3pj21kw11x1f2.jpg)  
 忙活了一個週末，終於把網站搭建起來了，搭建環境終究是件累人的事情。先前在阿里雲和新浪雲上都搭建過服務，但都是半天就搭建好的，這一次是自己去買的一個 vps 完全沒有文檔一路踩坑試錯搭建起來，花了一個週末的時光，而且現在還不是我最想要的配置方式，後期還需要繼續調整。😔 <!--more--> 

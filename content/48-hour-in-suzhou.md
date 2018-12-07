@@ -1,9 +1,12 @@
 ---
 title: 苏州 48 小时
 date: 2017-08-17 22:47:43
+Modified:  2017-08-17 22:47:43
 comments: true
-categories: Travel
-tags: [游记,记录,生活]
+category:  Travel
+tags: 游记,记录,生活
+Slug: 48-hour-in-suzhou
+Author: 苍南竹竿君
 ---
 出发时间：2017-08-13  
 出行天数：2天  

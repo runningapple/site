@@ -1,9 +1,12 @@
 ---
 title: 入冬
 date: 2017-11-01 22:57:58
+Modified:  2017-11-01 22:57:58
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: invisible-love
+Author: 苍南竹竿君
 ---
 十一月了，入冬了。  
 

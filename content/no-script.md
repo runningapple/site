@@ -1,9 +1,12 @@
 ---
 title: 无脚本执行
 date: 2017-07-15 22:57:58
+Modified:  2017-07-15 22:57:58
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: no-script
+Author: 苍南竹竿君
 ---
 ![](http://wx3.sinaimg.cn/mw690/ad108d28gy1fhdpovkvvkj20rs0d9k4m.jpg)  
 人的一生有时候真的很像演一场长长的戏，每天都会有各种各样的情节发生，但是终其一生，我们各自扮演的角色将以什么样的形式谢幕，却取决于先前每一个镜头的表演。角色不同表演的内容也不同，因为每个人每天的表演都是现场直播，每个人都没有剧本没有彩排，所有的脚本都由自己决定。<!--more-->  

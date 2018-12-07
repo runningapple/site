@@ -1,9 +1,12 @@
 ---
 title: 周末记（2）
 date: 2017-07-08 22:57:58
+Modified:  2017-07-08 22:57:58
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: weekend-log2
+Author: 苍南竹竿君
 ---
 好困，赶紧把文章写好，睡觉去了。  
 

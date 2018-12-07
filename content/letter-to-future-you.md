@@ -1,9 +1,12 @@
 ---
 title: 给未来的你
 date: 2100-01-01 22:10:37
+Modified:  2100-01-01 22:10:37
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: letter-to-future-you
+Author: 苍南竹竿君
 ---
 有一个星期没有写东西了，最近发生了好多事情，都没法静下来斟酌一下内心的想法。今天就写一篇特别的文章，给未来的你。 
  <!--more-->  

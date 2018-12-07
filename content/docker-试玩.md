@@ -1,9 +1,12 @@
 ---
 title: docker 试玩
 date: 2018-02-20 15:45:31
+Modified:  2018-02-20 15:45:31
 comments: true
-categories: R&D
-tags: [研发,技术]
+category:  R&D
+tags: 研发,技术
+Slug: docker-试玩
+Author: 苍南竹竿君
 ---
 ![](http://wx4.sinaimg.cn/mw690/ad108d28gy1fomxv6myrmj20hr099q31.jpg)  
 最近放假在家里没事做，在自己电脑上试玩了下 docker。如果用一个字来概括试玩的感受，那就是“爽”。  

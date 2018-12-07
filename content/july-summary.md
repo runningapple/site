@@ -1,9 +1,12 @@
 ---
 title: 七月記
 date: 2017-07-30 22:57:58
+Modified:  2017-07-30 22:57:58
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: july-summary
+Author: 苍南竹竿君
 ---
 ![](http://wx4.sinaimg.cn/mw690/ad108d28gy1fi1ujap2kfj20rs0itq5m.jpg)  
 有一個星期沒有寫文章了。  

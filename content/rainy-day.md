@@ -1,9 +1,12 @@
 ---
 title: 风雨大作
 date: 2017-07-04 22:57:58
+Modified:  2017-07-04 22:57:58
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: rainy-day
+Author: 苍南竹竿君
 ---
 ![](http://wx2.sinaimg.cn/mw690/ad108d28gy1fh89q0wkm7j21kw14ukjx.jpg)  
 雨，大暴雨。  

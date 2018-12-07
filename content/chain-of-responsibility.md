@@ -1,9 +1,12 @@
 ---
 title: 从中国式婚姻到责任链模式
 date: 2018-01-31 10:09:43
+Modified:  2018-01-31 10:09:43
 comments: true
-categories: R&D
-tags: [研发,设计模式,技术]
+category:  R&D
+tags: 研发,设计模式,技术
+Slug: chain-of-responsibility
+Author: 苍南竹竿君
 ---
 ![](http://wx2.sinaimg.cn/mw690/ad108d28ly1fnzktra1e7j20gy0bhq6e.jpg)  
 ### *前言*

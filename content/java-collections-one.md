@@ -1,9 +1,12 @@
 ---
 title: JAVA 拾遗之集合接口
 date: 2017-09-14 22:40:32
+Modified:  2017-09-14 22:40:32
 comments: true
-categories: R&D
-tags: [技术,研发,Java]
+category:  R&D
+tags: 技术,研发,Java
+Slug: java-collections-one
+Author: 苍南竹竿君
 ---
 ### 概要
 与现代等数据结构类库一样（C++ 中的 STL），Java 集合类库也将接口与实现分离。值得一提的是从 Java 1.5 之后，集合类都是带有类型参数的泛型类，这对于开发带来的便利性不言而喻。  

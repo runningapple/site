@@ -1,9 +1,12 @@
 ---
 title: 仲夏夜杂想4
 date: 2017-06-23 22:57:58
+Modified:  2017-06-23 22:57:58
 comments: true
-categories: Logs
-tags: [日志,记录,生活]
+category:  Logs
+tags: 日志,记录,生活
+Slug: summerthink4
+Author: 苍南竹竿君
 ---
 ![](http://wx3.sinaimg.cn/mw690/ad108d28gy1fgqfhz3bh6j218w0u0kjl.jpg)  
 嘿，你好，此刻你那里下雨了吗？杭州已经下了一天的雨了，准确的说杭州已经下了一个星期的雨了。天气预报显示还要下一个星期的雨，估计这雨要是再下一个星期，我的头要长野蘑菇了。  
